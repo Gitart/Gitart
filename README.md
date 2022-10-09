@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gitart
-- 👀 I’m interested in prrogram, algortihm, sport 
+- 👀 I’m interested in program, algortihm, sport 
 - 🌱 I’m currently learning english
 - 💞️ I’m looking to collaborate in create CRM
 - 📫 How to reach me ...
