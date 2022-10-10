@@ -1,7 +1,7 @@
-Hi, I’m @Gitart
-I’m interested in program, algortihm, sport 
-I’m currently learning english
-I’m looking to collaborate in create CRM
+Hi, I’m @Gitart  
+I’m interested in program, algortihm, sport   
+I’m currently learning english   
+I’m looking to collaborate in create CRM   
 
 <!---
 Gitart/Gitart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
