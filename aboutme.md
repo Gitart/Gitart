@@ -2,7 +2,7 @@
 
 * Im very like structured information 
 * I like building usefull application for people and companies
-* I try to make it easy to work with data
+* I try to simplify the work with the data as much as possible
 * I have desire to create a digital space that is fun and convenient
 * I really enjoy talking to other people who think the same way as I do.
 * I will be happy to take part in a joint interesting project
