@@ -1,4 +1,4 @@
-Hi, I’m Gitart  
+Hi, I’m Git Art Savage  
 I’m interested in program, algortihm, sport   
 I’m currently learning english   
 I’m looking to collaborate in create CRM   
