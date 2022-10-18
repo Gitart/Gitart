@@ -8,5 +8,6 @@
 * With plasure i`m take parcipation in togetere interested project  
 * I have many interested idea wich want develop in live 
 * Link with me for conversation graceful ideas. Im always open. 
-* I have aboute 1000 projects in different area 
+* I have aboute 1000 projects in different area
+* In basically my project relation with web and Rest API development 
 
