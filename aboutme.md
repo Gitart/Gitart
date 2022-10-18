@@ -1,7 +1,7 @@
 # 💡 Shortly about myself
 
 * Im very like structured information 
-* I like building usefull application for people 
+* I like building usefull application for people and companies
 * I try to make it easy to work with data
 * I have desire to create a digital space that is fun and convenient
 * I really enjoy talking to other people who think the same way as I do.
