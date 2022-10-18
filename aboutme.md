@@ -1,4 +1,4 @@
-# Short about me
+# 💡 Short about me
 
 * Im very like structured information 
 * I like building usefull application for people 
