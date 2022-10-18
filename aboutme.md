@@ -1,4 +1,4 @@
-# 💡 Shortly about myself
+# 💡  Shortly about myself
 
 * Im very like structured information 
 * I like building usefull application for people and companies
@@ -9,7 +9,7 @@
 * I have many interested idea wich want develop in live 
 * Contact me to discuss conversation graceful ideas. Im always open. 
 * I have about 1000 projects in various fields and a lot of technical capabilities
-* Basically my project is related to web development and Rest API development
+* Basically my project is related to web development and Rest API development 
 
 
 
