@@ -8,6 +8,8 @@
 * I will be happy to take part in a joint interesting project
 * I have many interested idea wich want develop in live 
 * Contact me to discuss conversation graceful ideas. Im always open. 
-* I have about 1000 projects in different fields
-* Basically my project is related to web development and Rest API development.
+* I have about 1000 projects in various fields and a lot of technical capabilities
+* Basically my project is related to web development and Rest API development
+
+
 
