@@ -10,5 +10,5 @@ Gitart/Gitart is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-* [Short oabot me](https://github.com/Gitart/Gitart/blob/main/aboutme.md#short-about-me) 
+* [Short about me](https://github.com/Gitart/Gitart/blob/main/aboutme.md#short-about-me) 
 
