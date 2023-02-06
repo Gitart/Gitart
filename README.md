@@ -2,7 +2,7 @@
 
 Hi, I’m Arthur Savage  
 I’m created integration systems, CRM, ERP  and usefull corporate system   
-I’m interested in program, algortihm, sport   
+I’m interested in program, algortihm, sport and order in data      
 I’m currently learning english   
 I’m looking to collaborate in create CRM 
 
