@@ -3,9 +3,9 @@
 ![image](https://user-images.githubusercontent.com/3950155/196386771-8222ca67-0d04-474f-8ff2-12ae983f9f44.png)
 
 Hi, I’m **Arthur Savage**  
-I’m create integration systems, CRM, ERP  and usefull corporate system   
-I’m interested in program, algortihm, sport and order in data      
-I’m currently learning english   
+I’m create integration systems, CRM, ERP  and usefull corporate business system   
+I’m interested in program, algortihm, order in data     
+I’m currently learning english    
 I’m looking to collaborate in create CRM 
 
 
