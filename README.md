@@ -16,9 +16,11 @@ You can click the Preview link to take a look at your changes.
 
 [📒 Shortly about myself ](https://github.com/Gitart/Gitart/blob/main/aboutme.md#short-about-me) 
 
+## GitHub stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=Gitart&border_radius=5.3&date_format=j%2Fn%5B%2FY%5D&card_width=500&type=png)](https://git.io/streak-stats)
 
 ## Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gitart&hide_progress=true)
 
+## My GitHub stats
 ![GitArt GitHub stats](https://github-readme-stats.vercel.app/api?username=Gitart&show_icons=true&theme=transparent)
