@@ -17,13 +17,13 @@ You can click the Preview link to take a look at your changes.
 [📒 Shortly about myself ](https://github.com/Gitart/Gitart/blob/main/aboutme.md#short-about-me) 
 
 ## GitHub stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=Gitart&border_radius=5.3&date_format=j%2Fn%5B%2FY%5D&card_width=1000&type=png)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Gitart&border_radius=5.3&date_format=j%2Fn%5B%2FY%5D&card_width=1000&type=png)](https://github.com/Gitart)
 
 ## Top Langs and stats
 
-<a href="https://github.com/Gaiart/github-readme-stats">
+<a href="https://github.com/Gaiart">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Gitart" />
 </a>
-<a href="https://github.com/gaitart/convoychat">
+<a href="https://github.com/gaitart">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gitart&layout=compact&langs_count=8&card_width=500" />
 </a>
