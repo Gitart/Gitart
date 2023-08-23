@@ -19,3 +19,5 @@ You can click the Preview link to take a look at your changes.
 [![GitHub Streak](https://streak-stats.demolab.com?user=Gitart&border_radius=5.3&date_format=j%2Fn%5B%2FY%5D&card_width=500&type=png)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitart&hide_progress=true)
+
+![GitArt GitHub stats](https://github-readme-stats.vercel.app/api?username=giart&show_icons=true&theme=transparent)
