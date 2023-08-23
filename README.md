@@ -1,13 +1,19 @@
-# 💡 SHORT ABOUT ME
+# 💡 INTRO
 
 ![image](https://user-images.githubusercontent.com/3950155/196386771-8222ca67-0d04-474f-8ff2-12ae983f9f44.png)
 
 Hi, I’m **Arthur Savage**  
 I am a Full Stack Developer with 23+ years of experience in developing enterprise applications software.
+
+
+I have hands-on experience working with GO, Database, Angular, React, GraphQL, Express, Flask, and several other libraries and frameworks. 
+Also, have experience in developing full-stack reusable and scalable services and applications and frameworks. 
+
 I create integration systems, CRM, ERP and a useful corporate business system.  
 I am interested in the program, the algorithm, the order in the data  
 I study English and new technologies  
 I am looking for cooperation in the creation of CRM 
+
 
 
 <!---
