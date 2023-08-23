@@ -29,4 +29,4 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 ## Number to string
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=f643e697618ef750b4e572af025f1c4f?card_width=1000)](https://gist.github.com/Gitart/f643e697618ef750b4e572af025f1c4f)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=f643e697618ef750b4e572af025f1c4f)](https://gist.github.com/Gitart/f643e697618ef750b4e572af025f1c4f)
