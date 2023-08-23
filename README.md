@@ -15,3 +15,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [📒 Shortly about myself ](https://github.com/Gitart/Gitart/blob/main/aboutme.md#short-about-me) 
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Gitart&date_format=j%2Fn%5B%2FY%5D&mode=weekly&type=png)](https://git.io/streak-stats)
+
