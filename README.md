@@ -36,13 +36,14 @@ You can click the Preview link to take a look at your changes.
 
 <details >
   <summary><b>🛠️ Languages and Tools</b></summary>
+  <div style="border:1px solid #ccc">
   * GO     
   * JScript     
   * HTML     
   * CSS    
   * DB - MySQL, MSSQL? 
   * NOSql - MongoDB
-  
+  </div>
 </details>
 
 
