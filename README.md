@@ -37,10 +37,10 @@ You can click the Preview link to take a look at your changes.
 <details >
   <summary><b>🛠️ Languages and Tools</b></summary>
   <br>
-  * GO 
-  * Javascripy 
-  * HTML 
-  * CSS 
+  * GO   
+  * JScript    
+  * HTML    
+  * CSS   
   <br>
  
 </details>
